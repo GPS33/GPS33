@@ -1,7 +1,8 @@
 - Estudante de Informática
-- 18 Anos
+- 19 Anos
 - IFSul - Curso Técnico em Informática
 - HTML/CSS
+- Javascript
 - Bootstrap
 - C/C#
 - Unity
